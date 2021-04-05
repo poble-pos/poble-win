@@ -1,0 +1,1 @@
+netsh advfirewall firewall add rule name="poble" dir=in action=allow program="Full path of .exe" enable=yes
